@@ -1,0 +1,1 @@
+On a farm on the outskirts of a small town called [[Hu'Sin]], Chad worked with his mother and father raising goats for their milk. The farm was one of the smaller plots, 

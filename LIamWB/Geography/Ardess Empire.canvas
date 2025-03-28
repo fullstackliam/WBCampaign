@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"65eee58048accbda","type":"text","text":"[[Thu'Ardessar]] (Capital City)","x":-126,"y":-480,"width":250,"height":60},
+		{"id":"b1d97a5a1710be54","type":"text","text":"[[Thu'Kanar]] (trading city)","x":-126,"y":-120,"width":250,"height":60},
+		{"id":"1f02bb8c27cf3a42","type":"text","text":"[[Hu'Dan]]","x":-126,"y":-300,"width":250,"height":60},
+		{"id":"faa7a97100a357b8","type":"file","file":"College/Shizus Invictus Adventuring Academy.canvas","x":280,"y":-650,"width":400,"height":400},
+		{"id":"fc30ead35bda0d00","type":"file","file":"Green Siren/The Green Siren.canvas","x":280,"y":-1120,"width":400,"height":400},
+		{"id":"0abf09e27f3a4266","type":"text","text":"[[Hu'Sin]]","x":-900,"y":-310,"width":250,"height":60},
+		{"id":"d928445a5f875825","type":"text","text":"[[Dak'Eld]]","x":-520,"y":-310,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a9022bce46c948f7","fromNode":"1f02bb8c27cf3a42","fromSide":"bottom","toNode":"b1d97a5a1710be54","toSide":"top"},
+		{"id":"3f85367a32ee8b29","fromNode":"65eee58048accbda","fromSide":"bottom","toNode":"1f02bb8c27cf3a42","toSide":"top"},
+		{"id":"0401874deb7eecdb","fromNode":"65eee58048accbda","fromSide":"right","toNode":"faa7a97100a357b8","toSide":"left"},
+		{"id":"b5103af320752273","fromNode":"65eee58048accbda","fromSide":"top","toNode":"fc30ead35bda0d00","toSide":"left"}
+	]
+}

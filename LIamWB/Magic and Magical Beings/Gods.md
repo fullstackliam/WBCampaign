@@ -1,0 +1,3 @@
+Gods are extreme concentrations of [[Magic]]. Gods are not inherently divine, rather are extremely powerful magical creatures. Gods do not necessarily possess human-like thought, but as the [[Magic]] interacts with its environment it attunes to it and this includes sentient beings. Gods that have not been worshipped in ages are likely to resemble the non-human environment that they exist in. In turn, gods that are regularly worshipped or interacted with will maintain sturdy, human like temperaments and personalities.
+
+The localized interaction of gods has lead to a wide pantheon where multiple gods representing the same values exist across geography.

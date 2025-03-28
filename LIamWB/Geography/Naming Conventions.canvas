@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"7fcd76238dd8c937","x":-1100,"y":-364,"width":720,"height":444,"color":"5","type":"text","text":"Prefix"},
+		{"id":"a04df151087f65ff","x":-1026,"y":-308,"width":250,"height":60,"type":"text","text":"Small Settlement"},
+		{"id":"579196ef25921914","x":-709,"y":-308,"width":250,"height":60,"type":"text","text":"Hu'"},
+		{"id":"49d9a9cf22722fed","x":-709,"y":-179,"width":250,"height":60,"type":"text","text":"Dak'"},
+		{"id":"4cae8e8ab868fb13","x":-1026,"y":-179,"width":250,"height":60,"type":"text","text":"Region Town"},
+		{"id":"5fcff24cb4e3a1c5","x":-1026,"y":-39,"width":250,"height":60,"type":"text","text":"Large City"},
+		{"id":"7b7f91c36e37037c","x":-709,"y":-39,"width":250,"height":60,"type":"text","text":"Thu'"},
+		{"id":"6657089ff6a75bbc","x":-280,"y":-364,"width":700,"height":444,"color":"1","type":"text","text":"Suffix"},
+		{"id":"efe8971c89fbc946","x":-220,"y":-308,"width":250,"height":60,"type":"text","text":""},
+		{"id":"4ba574d2da19353a","x":100,"y":-308,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}

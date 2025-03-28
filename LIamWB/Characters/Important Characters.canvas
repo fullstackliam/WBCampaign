@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"a8424e508d6b1bed","type":"text","text":"Big Meat Pete","x":-357,"y":-153,"width":250,"height":60},
+		{"id":"2b748e14107a19c9","type":"text","text":"Chad Bucklewitz","x":40,"y":-153,"width":250,"height":60},
+		{"id":"009b0b6f3a3fee70","type":"text","text":"Judy Hu (manager)","x":40,"y":-320,"width":250,"height":60},
+		{"id":"4d97b06df8c3a6b3","type":"file","file":"Green Siren/The Green Siren.canvas","x":-35,"y":-920,"width":400,"height":400},
+		{"id":"38688753523a9ed2","type":"text","text":"Donavon Jamer\n(Fellow Barista and Chad's mortal Enemy)","x":-320,"y":-460,"width":335,"height":110},
+		{"id":"2bf02dda1e725f06","type":"text","text":"Wymbus the Wize","x":60,"y":240,"width":250,"height":60},
+		{"id":"21df77e87301a3b7","type":"text","text":"Yaule","x":-337,"y":240,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"5da8ff65951a64b1","fromNode":"2b748e14107a19c9","fromSide":"left","toNode":"a8424e508d6b1bed","toSide":"right","fromEnd":"arrow","label":"Best Buds"},
+		{"id":"51d924a18548a910","fromNode":"2b748e14107a19c9","fromSide":"top","toNode":"009b0b6f3a3fee70","toSide":"bottom"},
+		{"id":"4267f7259fef54ae","fromNode":"009b0b6f3a3fee70","fromSide":"top","toNode":"4d97b06df8c3a6b3","toSide":"bottom"},
+		{"id":"2a1d749510f3f07a","fromNode":"2b748e14107a19c9","fromSide":"top","toNode":"38688753523a9ed2","toSide":"bottom"},
+		{"id":"4a0a1129269d6e3a","fromNode":"009b0b6f3a3fee70","fromSide":"left","toNode":"38688753523a9ed2","toSide":"right"},
+		{"id":"b35a9a15d0349785","fromNode":"a8424e508d6b1bed","fromSide":"top","toNode":"38688753523a9ed2","toSide":"bottom"},
+		{"id":"4ec8cbeadc2aba50","fromNode":"2bf02dda1e725f06","fromSide":"left","toNode":"21df77e87301a3b7","toSide":"right","label":"Teacher"}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"828e84feee3b4a16","type":"text","text":"Justice","x":-320,"y":-50,"width":160,"height":60,"color":"5"},
+		{"id":"9abf7fdd0a56b950","type":"text","text":"Fellowship","x":140,"y":-50,"width":160,"height":60,"color":"4"},
+		{"id":"ecf36cecb2a9f1fe","type":"text","text":"Strength","x":-80,"y":-320,"width":160,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"1e732be18747280c","fromNode":"9abf7fdd0a56b950","fromSide":"top","toNode":"ecf36cecb2a9f1fe","toSide":"right","label":"Strength Through Fellowship"},
+		{"id":"e837c7777b495ba8","fromNode":"828e84feee3b4a16","fromSide":"right","toNode":"9abf7fdd0a56b950","toSide":"left","label":"Fellowship Through Justice"},
+		{"id":"91dfd753044fea42","fromNode":"ecf36cecb2a9f1fe","fromSide":"left","toNode":"828e84feee3b4a16","toSide":"top","label":"Justice Through Strength"}
+	]
+}

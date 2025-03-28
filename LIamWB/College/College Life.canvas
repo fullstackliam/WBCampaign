@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"afdd843229823cc8","type":"text","text":"Shizus Invictus Adventuring Academy","x":-125,"y":-30,"width":305,"height":150},
+		{"id":"1fc9573ff93702db","type":"file","file":"College/Shizus Invictus Tenants.canvas","x":-148,"y":-555,"width":352,"height":400},
+		{"id":"8300394be2cdb228","type":"file","file":"College/Shizus Invictus Adventuring Academy.canvas","x":-680,"y":-155,"width":400,"height":400},
+		{"id":"640fbd7c8f4a8c77","x":440,"y":15,"width":250,"height":60,"type":"text","text":"Rival Schools"},
+		{"id":"3eab4870a9176503","x":440,"y":-155,"width":250,"height":60,"type":"text","text":"Buddega Alvatorez Scholarium"},
+		{"id":"d5bd072249daf25e","x":440,"y":180,"width":250,"height":60,"type":"text","text":"Great G University"}
+	],
+	"edges":[
+		{"id":"8067951b54338ef1","fromNode":"afdd843229823cc8","fromSide":"top","toNode":"1fc9573ff93702db","toSide":"bottom"},
+		{"id":"5c7dcebad3a85a22","fromNode":"afdd843229823cc8","fromSide":"left","toNode":"8300394be2cdb228","toSide":"right"},
+		{"id":"b477e73702d7a446","fromNode":"afdd843229823cc8","fromSide":"right","toNode":"640fbd7c8f4a8c77","toSide":"left"},
+		{"id":"9f33a168877aba32","fromNode":"640fbd7c8f4a8c77","fromSide":"top","toNode":"3eab4870a9176503","toSide":"bottom"},
+		{"id":"0bc3fc0277542a15","fromNode":"640fbd7c8f4a8c77","fromSide":"bottom","toNode":"d5bd072249daf25e","toSide":"top"}
+	]
+}

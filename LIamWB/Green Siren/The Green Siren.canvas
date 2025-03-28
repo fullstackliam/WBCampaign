@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"cd65177d6f513af2","type":"file","file":"Green Siren/The Green Siren.md","x":-550,"y":-142,"width":450,"height":422},
+		{"id":"5f86ecee21447ba1","x":-525,"y":-400,"width":400,"height":180,"type":"file","file":"Green Siren/Logo.md"},
+		{"id":"10d1bb27f365a20a","x":20,"y":39,"width":250,"height":60,"type":"text","text":"Best-Sellers"},
+		{"id":"c053bd0071e651d8","x":20,"y":-100,"width":250,"height":60,"type":"text","text":"Blackbeard's Brew"},
+		{"id":"048fc21f471d2775","x":20,"y":180,"width":250,"height":60,"type":"text","text":"Skreamin' Skelly (seasonal)"},
+		{"id":"9697a3dcfb1f41b9","x":320,"y":180,"width":250,"height":60,"type":"text","text":"Night Owl"},
+		{"id":"df710f4859ef4eef","x":320,"y":-100,"width":250,"height":60,"type":"text","text":"Old Cat's Bag"},
+		{"id":"014cc85238475c50","x":320,"y":39,"width":250,"height":60,"type":"text","text":"Abyssal Shriek"}
+	],
+	"edges":[
+		{"id":"024e06b1c0045f3a","fromNode":"10d1bb27f365a20a","fromSide":"top","toNode":"c053bd0071e651d8","toSide":"bottom"},
+		{"id":"4099665b629c95e3","fromNode":"cd65177d6f513af2","fromSide":"right","toNode":"10d1bb27f365a20a","toSide":"left"},
+		{"id":"2b86f2d432bf8c8d","fromNode":"10d1bb27f365a20a","fromSide":"bottom","toNode":"048fc21f471d2775","toSide":"top"},
+		{"id":"6409e5cff77b5222","fromNode":"10d1bb27f365a20a","fromSide":"bottom","toNode":"9697a3dcfb1f41b9","toSide":"top"},
+		{"id":"b99083f2abef6f1f","fromNode":"10d1bb27f365a20a","fromSide":"top","toNode":"df710f4859ef4eef","toSide":"bottom"},
+		{"id":"31230c9405029ff4","fromNode":"10d1bb27f365a20a","fromSide":"right","toNode":"014cc85238475c50","toSide":"left"},
+		{"id":"e8e52fa3f53ed253","fromNode":"cd65177d6f513af2","fromSide":"top","toNode":"5f86ecee21447ba1","toSide":"bottom"}
+	]
+}

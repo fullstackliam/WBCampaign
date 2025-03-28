@@ -1,0 +1,1 @@
+Instantly recognizable, the green siren on a white background is a stable of Thu-Ardesar

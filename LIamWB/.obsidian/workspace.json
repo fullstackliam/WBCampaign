@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "9d4aa9c8d2b22403",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7c4da1dce289843",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4535f2466639da64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Cities/Thu'Kanar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7af9a9eea708fab1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Geography/Ardess Empire.canvas",
+                "viewState": {
+                  "x": -58.508633860633665,
+                  "y": -539.3909251405553,
+                  "zoom": -0.6666666666666667
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab1ef668575edf4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a71f7048632fbbd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a96f2157b16dc27d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da6716d3eb70f503",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d0b335406219a2a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1c6ea7d0f371c99",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9e7508327c3862d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a4f0fe06b5fb907",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Geography/Cities/Thu'Kanar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbaa937f81a915ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Geography/Cities/Thu'Kanar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6790ed006eb78dc5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce57ba4760219f93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Geography/Cities/Thu'Kanar.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4535f2466639da64",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "2025-03-27.md",
+    "Untitled 1.canvas",
+    "Magic and Magical Beings/Gods/Roan, Goddess of Adventure.canvas",
+    "Magic and Magical Beings/Gods",
+    "Magic and Magical Beings/Gods.md",
+    "Magic and Magical Beings/Magic.md",
+    "Magic and Magical Beings",
+    "Geography/Naming Conventions.canvas",
+    "Geography/Cities/Hu'Sin.md",
+    "Magic.canvas",
+    "Geography/Ardess Empire.canvas",
+    "Geography/Cities/Dak'Eld.md",
+    "Green Siren/The Green Siren.canvas",
+    "Green Siren/The Green Siren.md",
+    "Green Siren/Logo.md",
+    "College/Shizus Invictus Tenants.canvas",
+    "College/Shizus Invictus Adventuring Academy.canvas",
+    "College/College Life.canvas",
+    "Characters/Important Characters.canvas",
+    "Characters/PC's/Chad Bucklewitz.md",
+    "Characters/PC's/Big Meat Pete.md",
+    "Geography/Cities/Thu'Ardessar.md",
+    "Geography/Cities/Thu'Kanar.md",
+    "Characters/NPC's",
+    "Characters/PC's",
+    "Untitled 1.md",
+    "Geography/Cities/Hu'Dan.md",
+    "Geography/Cities",
+    "Geography",
+    "[[The.md",
+    "Green Siren",
+    "Characters",
+    "History.md",
+    "Politics.md",
+    "College",
+    "Untitled 1"
+  ]
+}

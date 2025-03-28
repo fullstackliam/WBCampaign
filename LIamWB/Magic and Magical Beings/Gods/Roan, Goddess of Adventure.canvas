@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"bea5b0e7d47063f3","type":"text","text":"Roan","x":-120,"y":-120,"width":250,"height":60,"color":"1"},
+		{"id":"547edde650b0aa83","type":"text","text":"Justice","x":-370,"y":-280,"width":250,"height":60,"color":"6"},
+		{"id":"18d57b2c58ebd56e","type":"text","text":"Fellowship","x":160,"y":-280,"width":250,"height":60,"color":"6"},
+		{"id":"e5a2dae447921d03","type":"text","text":"Great G","x":-370,"y":-380,"width":250,"height":60,"color":"5"},
+		{"id":"2f7afe43f408c9bf","type":"text","text":"Buddega Alvatorez","x":160,"y":-380,"width":250,"height":60,"color":"5"},
+		{"id":"73094deb75227cf4","type":"text","text":"Strength","x":-120,"y":40,"width":250,"height":60,"color":"6"},
+		{"id":"be052aae6d0191f8","type":"text","text":"Shizus Invictus","x":-120,"y":140,"width":250,"height":60,"color":"5"},
+		{"id":"4e9d715d64f5a56e","type":"text","text":"Great G\n\nA powerful and pure of heart half-giant, half-orc. Wielded an axe as big as a man and as heavy as the moon, he wrought judgement to those he came across. After closing Heaven's Gate with the Party of Roan, Great G ruled a united continent that the world has never since seen.\n\nInventor of Ballet.","x":-840,"y":-380,"width":380,"height":320},
+		{"id":"8cbd13dd9ae392fa","type":"text","text":"Roan and the Blessed","x":-110,"y":-660,"width":240,"height":60},
+		{"id":"745edf7b3e5f9589","type":"text","text":"Shizus Invictus\n\nPrimus Magus Invictus was his moniker to those who loved him while his enemies knew him as only Apocalypse Caster Shizus. He is said to have commanded the stars themselves to smite his foes, leaving smoldering ashes in place of legions. His might was his legitimacy and it was ever-present, growing through his age. Never has the world seen such a deadly mage and that's a damn good thing.\n\nHe is also said to have perfected and some say even invented Chocolate Chip Cookies","x":-185,"y":280,"width":470,"height":360},
+		{"id":"11befb478c3689be","type":"text","text":"Buddega Alvatorez\n\nIt is said not a soul was lost under the caring watch of the First Cleric. Buddega Alvatorez may not have actually been the first cleric in existence, but his overwhelming dedication to those in need completely redefined what it meant to be a cleric. Before his time, clerics were simple missionaries of their patron deities but the true, singular focus on sparing each and every single life under his care was so inspiring that every generation of cleric since has focused mainly on healing those in need.\n\nInventor of Drownball and Spare the Dying.","x":500,"y":-380,"width":500,"height":400}
+	],
+	"edges":[
+		{"id":"ff45b69a7f8a502e","fromNode":"73094deb75227cf4","fromSide":"bottom","toNode":"be052aae6d0191f8","toSide":"top"},
+		{"id":"699a5e3c9cfad2c0","fromNode":"bea5b0e7d47063f3","fromSide":"bottom","toNode":"73094deb75227cf4","toSide":"top"},
+		{"id":"ce83a109a54f6356","fromNode":"bea5b0e7d47063f3","fromSide":"top","toNode":"547edde650b0aa83","toSide":"bottom"},
+		{"id":"b247d3d20f1eab80","fromNode":"547edde650b0aa83","fromSide":"top","toNode":"e5a2dae447921d03","toSide":"bottom"},
+		{"id":"7e66b5b4d406b687","fromNode":"bea5b0e7d47063f3","fromSide":"top","toNode":"18d57b2c58ebd56e","toSide":"bottom"},
+		{"id":"a6608b7f1747fd39","fromNode":"18d57b2c58ebd56e","fromSide":"top","toNode":"2f7afe43f408c9bf","toSide":"bottom"}
+	]
+}

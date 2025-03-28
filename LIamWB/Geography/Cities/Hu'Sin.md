@@ -1,0 +1,1 @@
+The approximate birthplace of Chad Bucklewitz and Big Meat Pete, Hu'Sin is an agrarian community of less than 90. Its residents either toil the land or provide goods and labor for the surrounding farms. Community is the center of life here and each week the villages congregate at an ancient place of worship to the Goddess Roan.
